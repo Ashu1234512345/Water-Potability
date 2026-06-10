@@ -123,9 +123,9 @@ This structure improves dashboard performance and follows data warehousing best 
 
 ## 📷 Dashboard Screenshots
 ### Executive Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 ### Water Quality Analysis
-![Analysis](screenshots/potability.png)
+![Analysis](Screenshots/Potability.png)
 
 ---
 
